@@ -1,4 +1,3 @@
--- Group 58 Assignment 3--
 DROP DATABASE IF EXISTS car_rental;
 CREATE DATABASE car_rental;
 USE car_rental;
