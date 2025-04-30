@@ -1,4 +1,3 @@
--- Group 58
 -- View 1: Customer Rental Summary with Subquery in Columns 
 CREATE VIEW CustomerRentalSummary AS
 SELECT 
